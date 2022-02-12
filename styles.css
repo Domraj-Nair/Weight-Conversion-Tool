@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+form {
+  background-color: rgb(179, 181, 223);
+  color: white;
+  width: 500px;
+  height: 300px;
+  margin: 100px auto 100px;
+  padding: 25px;
+}
+
+h1,
+p,
+label {
+  color: black;
+}
+
+.error {
+  color: rgb(7, 7, 7);
+}
+
+.no-error {
+  color: rgb(255, 0, 0);
+}
